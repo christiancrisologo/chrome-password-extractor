@@ -1,0 +1,26 @@
+{
+  "name": "chrome-password-extracter",
+  "version": "1.0.0",
+  "description": "Simple password extrator for chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiancrisologo/chrome-password-extractor.git"
+  },
+  "keywords": [
+    "password",
+    "extractor"
+  ],
+  "author": "Christian.R.Crisologo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiancrisologo/chrome-password-extractor/issues"
+  },
+  "homepage": "https://github.com/christiancrisologo/chrome-password-extractor#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
